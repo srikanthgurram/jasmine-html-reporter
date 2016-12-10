@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-html-reporter",
+  "version": "0.0.1",
+  "description": "Creates HTML Report from Jasmine test results",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanthgurram/jasmine-html-reporter.git"
+  },
+  "keywords": [
+    "jasmine",
+    "html",
+    "reporter",
+    "protractor",
+    "angular",
+    "report"
+  ],
+  "author": "Srikanth Gurram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikanthgurram/jasmine-html-reporter/issues"
+  },
+  "homepage": "https://github.com/srikanthgurram/jasmine-html-reporter#readme"
+}

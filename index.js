@@ -4,7 +4,7 @@ var testResults = [];
 var testSuites = [];
 
 module.exports = {
-    printMsg = function() {
+    printMsg: function() {
 	console.log("This is a message from the demo package");
     },
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srikanthgurram/jasmine-html-reporter.git"
+    "url": "git+https://github.com/srikanthgurram/jasmine-html-reporter"
   },
   "keywords": [
     "jasmine",
@@ -23,6 +23,14 @@
   "bugs": {
     "url": "https://github.com/srikanthgurram/jasmine-html-reporter/issues"
   },
-  "readme": "README.md",
-  "homepage": "https://github.com/srikanthgurram/jasmine-html-reporter#readme"
+ "dependencies": {
+    "hat": "0.0.3",
+    "lodash": "^4.0.0",
+    "mkdirp": "^0.5.0",
+    "string.prototype.startswith": "^0.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "protractor": "^3.1.1"
+}
 }

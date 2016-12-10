@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/srikanthgurram/jasmine-html-reporter/issues"
   },
+  "readme": "README.md",
   "homepage": "https://github.com/srikanthgurram/jasmine-html-reporter#readme"
 }

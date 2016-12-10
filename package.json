@@ -1,6 +1,6 @@
 {
   "name": "jasmine-html-reporter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Creates HTML Report from Jasmine test results",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/srikanthgurram/jasmine-html-reporter/issues"
   },
- "dependencies": {
+  "dependencies": {
     "hat": "0.0.3",
     "lodash": "^4.0.0",
     "mkdirp": "^0.5.0",
@@ -32,5 +32,5 @@
   "devDependencies": {
     "jasmine": "^2.4.1",
     "protractor": "^3.1.1"
-}
+  }
 }
